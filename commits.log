@@ -1,0 +1,92 @@
+commit d5af1cc4b49c7ef9a501600884039a36aec802b3
+Author: Matias Fernandez <matifer.dev@gmail.com>
+Date:   Thu Feb 1 01:07:20 2024 -0300
+
+    Agregando 2 párrafos
+
+commit 555ef0859094ea6e1cb0a94ce18a44c95dcdcd06
+Merge: 48c5078 23cd3d5
+Author: Matias Fernandez <matifer.dev@gmail.com>
+Date:   Thu Feb 1 01:02:57 2024 -0300
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 48c50785cd34523b472c380d9738aa532080592f
+Author: Matias Fernandez <matifer.dev@gmail.com>
+Date:   Thu Feb 1 00:34:57 2024 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 23cd3d514544691680fb40fa398c61faba51238a
+Author: Matias Fernandez <matifer.dev@gmail.com>
+Date:   Thu Feb 1 00:34:57 2024 -0300
+
+    Agregando las estaciones del año
+
+commit d5793e07b18320b630fbc3e4bad63bb2aa8e9218
+Merge: 1243a68 b2bc561
+Author: Matias Fernandez <matifer.dev@gmail.com>
+Date:   Thu Feb 1 00:23:48 2024 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit b2bc5613a6f197c41c2e4891de6a6aa09061de0b
+Author: Matias Fernandez <matifer.dev@gmail.com>
+Date:   Thu Feb 1 00:15:12 2024 -0300
+
+    Agregando index.js al index.html
+
+commit 1243a68f8c56325f786f657770d950b666ae64c0
+Author: Matias Fernandez <matifer.dev@gmail.com>
+Date:   Thu Feb 1 00:12:48 2024 -0300
+
+    Agregando style.css al index.html
+
+commit 1dffcc7f8f0fe4c866b8dc006f1470269ba61dba
+Merge: 7e437b7 1db33aa
+Author: Matias Fernandez <matifer.dev@gmail.com>
+Date:   Thu Feb 1 00:03:30 2024 -0300
+
+    Merge branch 'js' into main
+
+commit 1db33aa56f84c8f06faec3d9537ef159334c65c7
+Author: Matias Fernandez <matifer.dev@gmail.com>
+Date:   Wed Jan 31 23:53:58 2024 -0300
+
+    Creando index.js
+
+commit 7e437b797e854edccb4c9997aade78de3e1e5cae
+Author: Matias Fernandez <matifer.dev@gmail.com>
+Date:   Wed Jan 31 23:45:25 2024 -0300
+
+    Creando style.css
+
+commit 072f65a4b21d10c9600737281d33e7ba913a34c5
+Author: Matias Fernandez <matifer.dev@gmail.com>
+Date:   Wed Jan 31 23:39:28 2024 -0300
+
+    Creando index.html
+
+commit 13893fbae67c3297c98521a0e9e76c766eec8f0a
+Author: Matias Fernandez <matifer.dev@gmail.com>
+Date:   Wed Jan 31 21:53:26 2024 -0300
+
+    Ignorando archivos .exe
+
+commit 0e763dcce1887afa37db62d8e67d8c77356dd947
+Author: Matias Fernandez <69617430+mati-fernandez@users.noreply.github.com>
+Date:   Wed Jan 31 13:19:14 2024 -0300
+
+    Creando licencia del repositorio
+
+commit 00e017341160a45d176b1918ab478007ecfa427a
+Author: Matias Fernandez <matifer.dev@gmail.com>
+Date:   Tue Jan 30 15:54:49 2024 -0300
+
+    Agregando contenido inicial al README
+
+commit 05a261a802d2ef3ef7a14cc4ae578983af2742ee
+Author: Matias Fernandez <matifer.dev@gmail.com>
+Date:   Tue Jan 30 15:48:08 2024 -0300
+
+    Primer commit 😀
