@@ -1,3 +1,36 @@
+commit 0cdc7213007a106c19858a6c07c2e5a914c441f5
+Merge: aa158f4 0bc83b6
+Author: Matias Fernandez <69617430+mati-fernandez@users.noreply.github.com>
+Date:   Fri Feb 2 22:13:24 2024 -0300
+
+    Merge pull request #1 from soymatifer/readme-soymatifer
+    
+    Readme soymatifer
+
+commit 0bc83b64afeae2243b9fd4f12f14733f9e0a2ba2
+Author: soymatifer <soymatifer@gmail.com>
+Date:   Fri Feb 2 22:00:03 2024 -0300
+
+    Haciendo mejoras al README del repositorio
+
+commit 9714e8aad930acb63db20b68fcee745cd145d436
+Author: soymatifer <soymatifer@gmail.com>
+Date:   Fri Feb 2 15:49:35 2024 -0300
+
+    Cambio de prueba de la segunda cuenta de Git
+
+commit aa158f4e1de42a546e247c4e76f85f1de6cf6379
+Author: Matias Fernandez <matifer.dev@gmail.com>
+Date:   Thu Feb 1 16:12:23 2024 -0300
+
+    Agregando imagen de flujo Git y poniendo chulo el index.html
+
+commit 50d5f2c89de9d589289c3ad11da51c02a817c553
+Author: Matias Fernandez <matifer.dev@gmail.com>
+Date:   Thu Feb 1 11:34:07 2024 -0300
+
+    Respaldando logs del repositorio
+
 commit d5af1cc4b49c7ef9a501600884039a36aec802b3
 Author: Matias Fernandez <matifer.dev@gmail.com>
 Date:   Thu Feb 1 01:07:20 2024 -0300
